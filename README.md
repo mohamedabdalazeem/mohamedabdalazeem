@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedabdalazeem?tab=repositories](https://github.com/mohamedabdalazeem?tab=repositories)
 
-- 💬 Ask me about **react, unity3d, wordpress**
+- 💬 Ask me about **React, Javascript Unity3d, Wordpress**
 
 - 📫 How to reach me **mohmedazem@hotmail.com**
 
