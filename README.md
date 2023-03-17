@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedabdalazeem&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedabdalazeem" /> </p>
 
 
-- 🌱 I’m currently learning **React Native, Node js**
+- 🌱 I’m currently learning **React js, Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedabdalazeem?tab=repositories](https://github.com/mohamedabdalazeem?tab=repositories)
 
